@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Pastas que não quero no GitHub ###
+.idea/
+*.iml
+Matrizes/
+fonte/
